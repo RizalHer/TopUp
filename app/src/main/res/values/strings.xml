@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Alief Store</string>
     <string name="judul">Alief Store Gaming</string>
-
+    <string name="ml">Top Up Mobile Legends</string>
+    <string name="top_up">Top Up Diamond dan Uc Game</string>
+    <string name="joki">Joki Mobile Legends</string>
+    <string name="ff">Top up Diamond Free Fire</string>
+    <string name="pubg">Top Up Uc Pubg</string>
+    <string name="home">Home</string>
 </resources>

@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/drawable/ic_search.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/drawable/ic_search__1_.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/layout/activity_joki.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/layout/activity_top_up.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/layout/carajoki.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/layout/caratopup.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/User/Documents/GitHub/TopUp/app/src/main/res/layout/home.xml" value="0.1" />
         <entry key="..\:/Users/admin/Documents/GitHub/TopUp/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
       </map>
     </option>
