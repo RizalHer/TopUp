@@ -1,0 +1,2 @@
+com/rizal/aliefstore/BuildConfig.java
+ com.rizal.aliefstore.BuildConfig
