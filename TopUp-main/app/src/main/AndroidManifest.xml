@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AliefStore">
         <activity
+            android:name=".Pubg"
+            android:exported="false" />
+        <activity
+            android:name=".Ff"
+            android:exported="false" />
+        <activity
+            android:name=".Ml"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".Joki"
+            android:exported="false" />
+        <activity
+            android:name=".TopUp"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
