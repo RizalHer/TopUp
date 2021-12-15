@@ -9,9 +9,9 @@ class ViewPagerAdapter(fragmentActivity: FragmentActivity) :
     private val JUMLAH_MENU = 2
     override fun createFragment(position: Int): Fragment {
         when (position){
-            0 ->  {return Cara_top_up()}
-            1 -> {return  cara_joki()}
-            else -> (return Cara_top_up())
+            0 ->  {return CaraTopUp()}
+            1 -> {return  CaraJoki()}
+            else -> (return CaraTopUp())
 
         }
     }
